@@ -7,6 +7,25 @@
 <br />
 <br />
 
+# 🌐 Live Demo
+
+<div align="center">
+
+<a href="https://nexoraai17.netlify.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Nexora_AI-7B61FF?style=for-the-badge&logo=netlify&logoColor=white" />
+
+</a>
+
+<br />
+<br />
+
+### 🔗 https://nexoraai17.netlify.app/
+
+</div>
+
+---
+
 # AI Powered Workspace For Modern Teams
 
 Nexora AI is an intelligent productivity and workflow automation platform built for modern businesses and development teams.
