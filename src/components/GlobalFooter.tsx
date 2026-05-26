@@ -6,6 +6,7 @@ import {
   Instagram,
   Linkedin,
   Github,
+  Cpu,
 } from "lucide-react";
 
 export default function GlobalFooter() {
@@ -22,7 +23,7 @@ export default function GlobalFooter() {
       <div className="col-span-2">
         <div className="flex items-center gap-2 mb-4">
           <div className="w-8 h-8 rounded-lg bg-[#d0bcff]/20 flex items-center justify-center text-[#d0bcff]">
-            <Zap size={16} />
+            <Cpu size={16} />
           </div>
 
           <span className="font-bold text-white text-base">

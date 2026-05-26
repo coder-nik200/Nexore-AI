@@ -11,6 +11,7 @@ import {
   Instagram,
   Linkedin,
   Github,
+  Cpu,
 } from 'lucide-react';
 
 import { Link } from 'react-router-dom';
@@ -43,7 +44,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
       <nav className="fixed top-0 w-full z-50 flex justify-between items-center px-6 md:px-12 py-4 bg-[#131314]/10 backdrop-blur-md border-b border-[#494454]/10">
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-[#6d3bd7] to-[#3131c0] flex items-center justify-center">
-            <span className="font-bold text-white text-base">N</span>
+            <span className="font-bold text-white text-base"><Cpu /></span>
           </div>
           <span className="text-xl font-bold tracking-tight text-white">Nexora AI</span>
         </div>

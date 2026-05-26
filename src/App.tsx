@@ -212,7 +212,7 @@ export default function App() {
         `}>
           <div className="p-5 flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-[#6d3bd7] to-[#3131c0] flex items-center justify-center text-white shrink-0">
-              <Zap className="fill-current text-white" size={20} />
+              <Cpu className="fill-current text-white" size={20} />
             </div>
             <div className="flex-1 min-w-0">
               <h1 className="text-lg font-bold text-white">Nexora AI</h1>
