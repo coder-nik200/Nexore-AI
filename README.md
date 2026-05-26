@@ -312,6 +312,35 @@ into one futuristic platform built for modern teams.
 
 ---
 
+# 📊 GitHub Stats
+
+<table>
+<tbody>
+<tr border="none">
+
+<td width="50%" align="center">
+
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=coder-nik200&theme=dark&show_icons=true&count_private=true" />
+
+<br />
+<br />
+
+<img alt="GitHub Streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=coder-nik200&theme=dark" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=coder-nik200&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" />
+
+</td>
+
+</tr>
+</tbody>
+</table>
+
+---
+
 # 🤝 Contributing
 
 Contributions are welcome.
@@ -337,6 +366,25 @@ This project is licensed under the MIT License.
 ## Nitish Bharti
 
 Built with passion for AI, automation, and futuristic productivity systems.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+🔗 LinkedIn:  
+<a href="https://www.linkedin.com/in/nitish-kumar-bharti-631a37359/" target="_blank">
+Nitish Kumar Bharti
+</a>
+
+<br />
+<br />
+
+📧 Email:  
+codesnippet17@gmail.com
+
+</div>
 
 ---
 
